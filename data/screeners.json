@@ -1,0 +1,101 @@
+{
+    "f3d9": {
+        "name": "Bullish Reversal",
+        "time": "09:15",
+        "filters": [
+            {
+                "type": "compare",
+                "item1": 2661,
+                "item1name": "Price",
+                "operator": ">",
+                "item2": "20891",
+                "item2name": "Open Price",
+                "multiplier": "1"
+            },
+            {
+                "type": "compare",
+                "item1": 12469,
+                "item1name": "Volume",
+                "operator": ">",
+                "item2": "15490",
+                "item2name": "Previous Volume",
+                "multiplier": "1"
+            },
+            {
+                "type": "basic",
+                "item1": 14399,
+                "item1name": "Bandar Value",
+                "operator": ">",
+                "item2": "0",
+                "item2name": "",
+                "multiplier": "0"
+            },
+            {
+                "type": "basic",
+                "item1": 13620,
+                "item1name": "Value",
+                "operator": ">",
+                "item2": "2000000000",
+                "item2name": "",
+                "multiplier": "0"
+            }
+        ],
+        "sequence": [
+            20891,
+            15490,
+            14399,
+            13620,
+            2661,
+            12469
+        ]
+    },
+    "a0c5": {
+        "name": "Momentum Volume Breakout",
+        "time": "14:00",
+        "filters": [
+            {
+                "type": "basic",
+                "item1": 12469,
+                "item1name": "Volume",
+                "operator": ">",
+                "item2": "0",
+                "item2name": "",
+                "multiplier": "0"
+            },
+            {
+                "type": "basic",
+                "item1": 15629,
+                "item1name": "1 Day Price Returns (%)",
+                "operator": ">=",
+                "item2": "3",
+                "item2name": "",
+                "multiplier": "0"
+            },
+            {
+                "type": "basic",
+                "item1": 13620,
+                "item1name": "Value",
+                "operator": ">",
+                "item2": "10000000000",
+                "item2name": "",
+                "multiplier": "0"
+            },
+            {
+                "type": "compare",
+                "item1": 2661,
+                "item1name": "Price",
+                "operator": ">",
+                "item2": "13622",
+                "item2name": "Previous Price",
+                "multiplier": "1"
+            }
+        ],
+        "sequence": [
+            12469,
+            15629,
+            13620,
+            2661,
+            13622
+        ]
+    }
+}

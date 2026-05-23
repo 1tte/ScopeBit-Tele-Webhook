@@ -1,0 +1,15 @@
+python-telegram-bot[job-queue]==21.10
+requests
+python-dotenv
+mplfinance
+matplotlib
+httpx
+psutil
+pandas
+numpy
+reportlab
+Pillow
+pytz
+aiohttp
+cryptography
+watchdog

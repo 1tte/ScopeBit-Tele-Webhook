@@ -1,0 +1,3183 @@
+{
+    "message": "Financial metrics for screener found",
+    "data": [
+        {
+            "fitem_id": 18,
+            "fitem_name": "Size",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 2892,
+                    "fitem_name": "Market Cap",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2895,
+                    "fitem_name": "Enterprise Value",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2899,
+                    "fitem_name": "Current Share Outstanding",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21535,
+                    "fitem_name": "Free Float",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21334,
+                    "fitem_name": "Number of Shareholders",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21335,
+                    "fitem_name": "Number of Shareholders (# of changes 1M)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21337,
+                    "fitem_name": "Number of Shareholders (% changes 1M)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21336,
+                    "fitem_name": "Number of Shareholders (# of changes 3M)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21338,
+                    "fitem_name": "Number of Shareholders (% changes 3M)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21527,
+                    "fitem_name": "Number of Shareholders (# of changes 6M)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21530,
+                    "fitem_name": "Number of Shareholders (% of changes 6M)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21528,
+                    "fitem_name": "Number of Shareholders (# of changes 1Y)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21531,
+                    "fitem_name": "Number of Shareholders (% of changes 1Y)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21543,
+                    "fitem_name": "Free Float Market Cap",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 88,
+            "fitem_name": "Valuation",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 65,
+                    "fitem_name": "PE Standard Deviation Band",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 12626,
+                            "fitem_name": "+2 PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12623,
+                            "fitem_name": "+1 PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12625,
+                            "fitem_name": "Mean PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12624,
+                            "fitem_name": "-1 PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12627,
+                            "fitem_name": "-2 PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12636,
+                            "fitem_name": "+2 PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12633,
+                            "fitem_name": "+1 PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12635,
+                            "fitem_name": "Mean PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12634,
+                            "fitem_name": "-1 PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12637,
+                            "fitem_name": "-2 PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 16464,
+                            "fitem_name": "+2 PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 16461,
+                            "fitem_name": "+1 PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 16463,
+                            "fitem_name": "Mean PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 16462,
+                            "fitem_name": "-1 PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 16465,
+                            "fitem_name": "-2 PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18154,
+                            "fitem_name": "+2 PE Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18155,
+                            "fitem_name": "+1 PE Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18156,
+                            "fitem_name": "Mean PE Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18157,
+                            "fitem_name": "-1 PE Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18158,
+                            "fitem_name": "-2 PE Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 48,
+                    "fitem_name": "PE Price Band",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 12098,
+                            "fitem_name": "Highest PE Band",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13608,
+                            "fitem_name": "Higher PE Band",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12100,
+                            "fitem_name": "Average PE Band",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13609,
+                            "fitem_name": "Lower PE Band",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12099,
+                            "fitem_name": "Lowest PE Band",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2661,
+                            "fitem_name": "Price",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 87,
+                    "fitem_name": "PBV Standard Deviation Band",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 13453,
+                            "fitem_name": "+2 PBV Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13454,
+                            "fitem_name": "+1 PBV Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13455,
+                            "fitem_name": "Mean PBV Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13456,
+                            "fitem_name": "-1 PBV Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13457,
+                            "fitem_name": "-2 PBV Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13458,
+                            "fitem_name": "+2 PBV Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13459,
+                            "fitem_name": "+1 PBV Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13460,
+                            "fitem_name": "Mean PBV Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13461,
+                            "fitem_name": "-1 PBV Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13462,
+                            "fitem_name": "-2 PBV Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2896,
+                            "fitem_name": "Current Price to Book Value",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18160,
+                            "fitem_name": "+2 PBV Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18161,
+                            "fitem_name": "+1 PBV Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18162,
+                            "fitem_name": "Mean PBV Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18163,
+                            "fitem_name": "-1 PBV Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18164,
+                            "fitem_name": "-2 PBV Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18165,
+                            "fitem_name": "+2 PBV Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18166,
+                            "fitem_name": "+1 PBV Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18167,
+                            "fitem_name": "Mean PBV Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18168,
+                            "fitem_name": "-1 PBV Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18169,
+                            "fitem_name": "-2 PBV Standard Deviation (10 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 51,
+                    "fitem_name": "PS Standard Deviation Band",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 2893,
+                            "fitem_name": "Current Price to Sales (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13463,
+                            "fitem_name": "+2 PS Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13464,
+                            "fitem_name": "+1 PS Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13465,
+                            "fitem_name": "Mean PS Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13466,
+                            "fitem_name": "-1 PS Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13467,
+                            "fitem_name": "-2 PS Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13468,
+                            "fitem_name": "+2 PS Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13469,
+                            "fitem_name": "+1 PS Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13470,
+                            "fitem_name": "Mean PS Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13471,
+                            "fitem_name": "-1 PS Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13472,
+                            "fitem_name": "-2 PS Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12142,
+                            "fitem_name": "+1 PS Standard Deviation",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12143,
+                            "fitem_name": "-1 PS Standard Deviation",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12144,
+                            "fitem_name": "Mean PS Standard Deviation",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12145,
+                            "fitem_name": "+2 PS Standard Deviations",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 12146,
+                            "fitem_name": "-2 PS Standard Deviation",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 92,
+                    "fitem_name": "Forward PE Band",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 21119,
+                            "fitem_name": "+2 Forward PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21120,
+                            "fitem_name": "+1 Forward PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21121,
+                            "fitem_name": "Mean Forward PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21122,
+                            "fitem_name": "-1 Forward PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21123,
+                            "fitem_name": "-2 Forward PE Standard Deviation (1 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21124,
+                            "fitem_name": "+2 Forward PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21125,
+                            "fitem_name": "+1 Forward PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21126,
+                            "fitem_name": "Mean Forward PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21127,
+                            "fitem_name": "-1 Forward PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21128,
+                            "fitem_name": "-2 Forward PE Standard Deviation (3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21129,
+                            "fitem_name": "+2 Forward PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21130,
+                            "fitem_name": "+1 Forward PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21131,
+                            "fitem_name": "Mean Forward PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21132,
+                            "fitem_name": "-1 Forward PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21133,
+                            "fitem_name": "-2 Forward PE Standard Deviation (5 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 2661,
+                    "fitem_name": "Price",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13118,
+                    "fitem_name": "Price (Unadjusted)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2891,
+                    "fitem_name": "Current PE Ratio (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12148,
+                    "fitem_name": "Current PE Ratio (Annualised)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2898,
+                    "fitem_name": "Earnings Yield (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2896,
+                    "fitem_name": "Current Price to Book Value",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1516,
+                    "fitem_name": "Price to Tang. Book Value (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2893,
+                    "fitem_name": "Current Price to Sales (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2897,
+                    "fitem_name": "EV to EBIT (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13366,
+                    "fitem_name": "Piotroski F-Score",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13382,
+                    "fitem_name": "EPS Rating",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13387,
+                    "fitem_name": "Relative Strength Rating",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13431,
+                    "fitem_name": "PEG Ratio",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13432,
+                    "fitem_name": "PEG Ratio (3yr)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13430,
+                    "fitem_name": "PEG (Forward)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16577,
+                    "fitem_name": "Forward PE Ratio",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13434,
+                    "fitem_name": "Graham Multiplier",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13473,
+                    "fitem_name": "Magic Formula (%)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13611,
+                    "fitem_name": "EPS (TTM YoY Growth)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13427,
+                    "fitem_name": "IHSG PE Ratio TTM (Median)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13409,
+                    "fitem_name": "P/NCAV",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13410,
+                    "fitem_name": "P/NNWC",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15718,
+                    "fitem_name": "Current Book Value Per Share",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 72,
+            "fitem_name": "Analyst Consensus",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 20283,
+                    "fitem_name": "Price Target (High)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 20284,
+                    "fitem_name": "Price Target (Median)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 20285,
+                    "fitem_name": "Price Target (Low)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21098,
+                    "fitem_name": "Expected Revenue (Growth: YoY)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21099,
+                    "fitem_name": "Expected Revenue (Growth: 2Y CAGR)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21100,
+                    "fitem_name": "Expected Op. Profit (Growth: YoY)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21101,
+                    "fitem_name": "Expected Op. Profit (Growth: 2Y CAGR)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21102,
+                    "fitem_name": "Expected Net Income (Growth: YoY)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21103,
+                    "fitem_name": "Expected Net Income (Growth: 2Y CAGR)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21104,
+                    "fitem_name": "Expected EPS (Growth: YoY)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21105,
+                    "fitem_name": "Expected EPS (Growth: 2Y CAGR)",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 67,
+            "fitem_name": "Dividend",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 2915,
+                    "fitem_name": "Dividend Yield",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2916,
+                    "fitem_name": "Payout Ratio",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12722,
+                    "fitem_name": "Dividend (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16469,
+                    "fitem_name": "Average Dividend Yield (3 Year)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16470,
+                    "fitem_name": "Average Dividend Yield (5 Year)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16471,
+                    "fitem_name": "Average Dividend Yield (10 Year)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16474,
+                    "fitem_name": "Dividend Payment Streak (Annual)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21507,
+                    "fitem_name": "Dividend FY",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21508,
+                    "fitem_name": "Dividend Yield FY",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21509,
+                    "fitem_name": "Dividend Payout Ratio FY",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 64,
+            "fitem_name": "Technical",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 13622,
+                    "fitem_name": "Previous Price",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12459,
+                    "fitem_name": "Price MA 5",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12457,
+                    "fitem_name": "Price MA 10",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12458,
+                    "fitem_name": "Price MA 20",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12461,
+                    "fitem_name": "Price MA 100",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12460,
+                    "fitem_name": "Price MA 50",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12462,
+                    "fitem_name": "Price MA 200",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12465,
+                    "fitem_name": "Volume MA 5",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12463,
+                    "fitem_name": "Volume MA 10",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12464,
+                    "fitem_name": "Volume MA 20",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12466,
+                    "fitem_name": "Volume MA 50",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12467,
+                    "fitem_name": "Volume MA 100",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12468,
+                    "fitem_name": "Volume MA 200",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 12469,
+                    "fitem_name": "Volume",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13620,
+                    "fitem_name": "Value",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15490,
+                    "fitem_name": "Previous Volume",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3229,
+                    "fitem_name": "Frequency",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15394,
+                    "fitem_name": "Frequency Analyzer",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15395,
+                    "fitem_name": "Frequency Analyzer MA 50",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15396,
+                    "fitem_name": "Frequency Spike",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13650,
+                    "fitem_name": "1 Day Volume Change",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16452,
+                    "fitem_name": "Value MA 5",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16453,
+                    "fitem_name": "Value MA 10",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16454,
+                    "fitem_name": "Value MA 20",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16455,
+                    "fitem_name": "Value MA 50",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16456,
+                    "fitem_name": "Value MA 100",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16457,
+                    "fitem_name": "Value MA 200",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 20891,
+                    "fitem_name": "Open Price",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 20892,
+                    "fitem_name": "Low Price",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 20893,
+                    "fitem_name": "High Price",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 93,
+            "fitem_name": "Bandarmology",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 3218,
+                    "fitem_name": "Foreign Flow",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13521,
+                    "fitem_name": "Foreign Flow MA 20",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13524,
+                    "fitem_name": "Foreign Flow MA 50",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3194,
+                    "fitem_name": "Net Foreign Buy / Sell",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13539,
+                    "fitem_name": "Net Foreign Buy / Sell MA10",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13540,
+                    "fitem_name": "Net Foreign Buy / Sell MA20",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13561,
+                    "fitem_name": "Net Foreign Buy Streak",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13562,
+                    "fitem_name": "Net Foreign Sell Streak",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13591,
+                    "fitem_name": "1 Week Net Foreign Flow",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13580,
+                    "fitem_name": "1 Month Net Foreign Flow",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13581,
+                    "fitem_name": "3 Month Net Foreign Flow",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13582,
+                    "fitem_name": "6 Month Net Foreign Flow",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13583,
+                    "fitem_name": "1 Year Net Foreign Flow",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13584,
+                    "fitem_name": "YTD Net Foreign Flow",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 14399,
+                    "fitem_name": "Bandar Value",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 14400,
+                    "fitem_name": "Bandar Accum/Dist",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 14424,
+                    "fitem_name": "Bandar Value MA 10",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 14426,
+                    "fitem_name": "Bandar Value MA 20",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 14425,
+                    "fitem_name": "Previous Bandar Value",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21365,
+                    "fitem_name": "Net Insider Buy / Sell (3M) (%)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21366,
+                    "fitem_name": "Net Insider Buy / Sell (6M) (%)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21367,
+                    "fitem_name": "Net Insider Buy / Sell (1Y) (%)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 21368,
+                    "fitem_name": "Net Insider Buy / Sell (YTD) (%)",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 63,
+            "fitem_name": "Price Performance",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 14812,
+                    "fitem_name": "1 Week Price Returns",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1564,
+                    "fitem_name": "1 Month Price Returns",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1565,
+                    "fitem_name": "3 Month Price Returns",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1566,
+                    "fitem_name": "6 Month Price Returns",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1567,
+                    "fitem_name": "1 Year Price Returns",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1568,
+                    "fitem_name": "3 Year Price Returns",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 18172,
+                    "fitem_name": "5 Year Price Returns",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 18173,
+                    "fitem_name": "10 Year Price Returns",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1569,
+                    "fitem_name": "Year to Date Price Returns",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1570,
+                    "fitem_name": "52 Week High",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1571,
+                    "fitem_name": "52 Week Low",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13373,
+                    "fitem_name": "3 Month RS Line",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13374,
+                    "fitem_name": "1 Month RS Line",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13372,
+                    "fitem_name": "6 Month RS Line",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13407,
+                    "fitem_name": "9 Month RS Line",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13371,
+                    "fitem_name": "1 Year RS Line",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13409,
+                    "fitem_name": "P/NCAV",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13410,
+                    "fitem_name": "P/NNWC",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15628,
+                    "fitem_name": "Price Change",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15629,
+                    "fitem_name": "1 Day Price Returns (%)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16458,
+                    "fitem_name": "3 Year CAGR Price Performance",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16459,
+                    "fitem_name": "5 Year CAGR Price Performance",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16460,
+                    "fitem_name": "10 Year CAGR Price Performance",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 45,
+            "fitem_name": "Profitability",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 12,
+                    "fitem_name": "Gross Profit",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1561,
+                            "fitem_name": "Gross Profit Margin (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2290,
+                            "fitem_name": "Gross Profit Margin (TTM)(%)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3195,
+                            "fitem_name": "Gross Profit Margin (Annual)(%)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 13,
+                    "fitem_name": "Operating Profit Margin",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1562,
+                            "fitem_name": "Operating Profit Margin (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3106,
+                            "fitem_name": "Operating Profit Margin (TTM)(%)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3196,
+                            "fitem_name": "Operating Profit Margin (Annual)(%)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 14,
+                    "fitem_name": "Net Profit Margin",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1563,
+                            "fitem_name": "Net Profit Margin (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3107,
+                            "fitem_name": "Net Profit Margin (TTM)(%)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3197,
+                            "fitem_name": "Net Profit Margin (Annual)(%)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13438,
+                            "fitem_name": "Average (Net Profit Margin 5yr)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "fitem_id": 29,
+            "fitem_name": "Management Effectiveness",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 20,
+                    "fitem_name": "Receivables Turnover ",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1445,
+                            "fitem_name": "Receivables Turnover (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1464,
+                            "fitem_name": "Receivables Turnover (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 21,
+                    "fitem_name": "Inventory Turnover",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1448,
+                            "fitem_name": "Inventory Turnover (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1465,
+                            "fitem_name": "Inventory Turnover (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 22,
+                    "fitem_name": "Fixed Asset Turnover",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1452,
+                            "fitem_name": "Fixed Assets Turnover (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1466,
+                            "fitem_name": "Fixed Assets Turnover (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 23,
+                    "fitem_name": "Working Capital Turnover",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1468,
+                            "fitem_name": "Working Capital Turnover (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1525,
+                            "fitem_name": "Working Capital Turnover (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 24,
+                    "fitem_name": "Days Sales Outstanding",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1431,
+                            "fitem_name": "Days Sales Outstanding (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1432,
+                            "fitem_name": "Days Sales Outstanding (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 26,
+                    "fitem_name": "Days Inventory Outstanding",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1435,
+                            "fitem_name": "Days Inventory (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1437,
+                            "fitem_name": "Days Inventory (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 25,
+                    "fitem_name": "Payables Period",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1438,
+                            "fitem_name": "Payables Period (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1439,
+                            "fitem_name": "Days Payables Outstanding (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 27,
+                    "fitem_name": "Cash Conversion Cycle",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1441,
+                            "fitem_name": "Cash Conversion Cycle (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1442,
+                            "fitem_name": "Cash Conversion Cycle (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 1467,
+                    "fitem_name": "Asset Turnover (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1460,
+                    "fitem_name": "Return on Assets (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1461,
+                    "fitem_name": "Return on Equity (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1462,
+                    "fitem_name": "Return on Capital Employed (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13447,
+                    "fitem_name": "Return On Invested Capital (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13439,
+                    "fitem_name": "Average (RoE 3 yr)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13440,
+                    "fitem_name": "Average (RoE 5 yr)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13441,
+                    "fitem_name": "Average (RoCE 3yr)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13442,
+                    "fitem_name": "Average (RoCE 5yr)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13411,
+                    "fitem_name": "ROC Greenblatt",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 71,
+            "fitem_name": "Ranking",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 13403,
+                    "fitem_name": "Rank (RS 3m)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13408,
+                    "fitem_name": "Rank (6 Month Price Return)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13419,
+                    "fitem_name": "Rank (Operating Profit Growth)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13420,
+                    "fitem_name": "Rank (P/S)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13421,
+                    "fitem_name": "Rank (P/B)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13423,
+                    "fitem_name": "Rank (Market Cap)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13424,
+                    "fitem_name": "Rank (Earnings Yield)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13404,
+                    "fitem_name": "Rank (RS 6m)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13405,
+                    "fitem_name": "Rank (RS 9m)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13406,
+                    "fitem_name": "Rank (RS 1yr)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13474,
+                    "fitem_name": "Rank (Magic Formula)(%)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15274,
+                    "fitem_name": "Rank ROA",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15275,
+                    "fitem_name": "Rank ROE",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15276,
+                    "fitem_name": "Rank ROIC",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13425,
+                    "fitem_name": "Rank (ROC Greenblatt)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13426,
+                    "fitem_name": "Rank (Current PE Ratio TTM)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13437,
+                    "fitem_name": "Rank (MA 100)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16468,
+                    "fitem_name": "Rank (Current PE Ratio Annualised)",
+                    "show_chart_icon": 0,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 30,
+            "fitem_name": "Income Statement",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 31,
+                    "fitem_name": "Revenue",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 2991,
+                            "fitem_name": "Revenue (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3111,
+                            "fitem_name": "Revenue (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2997,
+                            "fitem_name": "Revenue (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2996,
+                            "fitem_name": "Revenue (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2994,
+                            "fitem_name": "Revenue (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2992,
+                            "fitem_name": "Revenue (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2993,
+                            "fitem_name": "Revenue (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3206,
+                            "fitem_name": "Revenue (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2995,
+                            "fitem_name": "Revenue (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13418,
+                            "fitem_name": "Sales Growth Streak",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 32,
+                    "fitem_name": "Cost Of Goods Sold",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 2998,
+                            "fitem_name": "Cost Of Goods Sold (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3113,
+                            "fitem_name": "Cost Of Goods Sold (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3000,
+                            "fitem_name": "Cost Of Goods Sold (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 2999,
+                            "fitem_name": "Cost Of Goods Sold (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3003,
+                            "fitem_name": "Cost Of Goods Sold (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3001,
+                            "fitem_name": "Cost Of Goods Sold (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3002,
+                            "fitem_name": "Cost Of Goods Sold (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3207,
+                            "fitem_name": "Cost Of Goods Sold (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3004,
+                            "fitem_name": "Cost Of Goods Sold ( Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 33,
+                    "fitem_name": "Gross Profit",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3005,
+                            "fitem_name": "Gross Profit (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3114,
+                            "fitem_name": "Gross Profit (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3007,
+                            "fitem_name": "Gross Profit (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3006,
+                            "fitem_name": "Gross Profit (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3010,
+                            "fitem_name": "Gross Profit (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3008,
+                            "fitem_name": "Gross Profit (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3009,
+                            "fitem_name": "Gross Profit (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3208,
+                            "fitem_name": "Gross Profit (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3011,
+                            "fitem_name": "Gross Profit (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 104,
+                    "fitem_name": "EBITDA",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 21474,
+                            "fitem_name": "EBITDA (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21473,
+                            "fitem_name": "EBITDA (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21471,
+                            "fitem_name": "EBITDA (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21472,
+                            "fitem_name": "EBITDA (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21463,
+                            "fitem_name": "EBITDA (Growth: QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21464,
+                            "fitem_name": "EBITDA (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21465,
+                            "fitem_name": "EBITDA (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21466,
+                            "fitem_name": "EBITDA (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21467,
+                            "fitem_name": "EBITDA (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 105,
+                    "fitem_name": "EV to EBITDA",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 21468,
+                            "fitem_name": "EV to EBITDA (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21470,
+                            "fitem_name": "EV to EBITDA (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21457,
+                            "fitem_name": "EV to EBITDA (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 21469,
+                            "fitem_name": "EV to EBITDA (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 34,
+                    "fitem_name": "Operating Expense",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3012,
+                            "fitem_name": "Operating Expense (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3115,
+                            "fitem_name": "Operating Expense (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3014,
+                            "fitem_name": "Operating Expense (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3013,
+                            "fitem_name": "Operating Expense (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3017,
+                            "fitem_name": "Operating Expense (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3015,
+                            "fitem_name": "Operating Expense (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3016,
+                            "fitem_name": "Operating Expense (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3209,
+                            "fitem_name": "Operating Expense (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3018,
+                            "fitem_name": "Operating Expense (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 35,
+                    "fitem_name": "Income From Operations",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3019,
+                            "fitem_name": "Income From Operations (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3116,
+                            "fitem_name": "Income From Operations (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3021,
+                            "fitem_name": "Income From Operations (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3020,
+                            "fitem_name": "Income From Operations (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3024,
+                            "fitem_name": "Income From Operations (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3022,
+                            "fitem_name": "Income From Operations (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3023,
+                            "fitem_name": "Income From Operations (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3210,
+                            "fitem_name": "Income From Operations (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3025,
+                            "fitem_name": "Income From Operations (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 46,
+                    "fitem_name": "Non-Operating Income/Expense",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3198,
+                            "fitem_name": "Non-Operating Income (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3205,
+                            "fitem_name": "Non-Operating Income (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3200,
+                            "fitem_name": "Non-Operating Income (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3199,
+                            "fitem_name": "Non-Operating Income (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3203,
+                            "fitem_name": "Non-Operating Income (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3201,
+                            "fitem_name": "Non-Operating Income (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3202,
+                            "fitem_name": "Non-Operating Income (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3217,
+                            "fitem_name": "Non-Operating Income (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3204,
+                            "fitem_name": "Non-Operating Income (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 36,
+                    "fitem_name": "Finance Cost",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3026,
+                            "fitem_name": "Finance Cost (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3117,
+                            "fitem_name": "Finance Cost (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3028,
+                            "fitem_name": "Finance Cost (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3027,
+                            "fitem_name": "Finance Cost (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3031,
+                            "fitem_name": "Finance Cost (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3029,
+                            "fitem_name": "Finance Cost (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3030,
+                            "fitem_name": "Finance Cost (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3211,
+                            "fitem_name": "Finance Cost (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3032,
+                            "fitem_name": "Finance Cost (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 37,
+                    "fitem_name": "Gain (loss) on foreign exchange",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3033,
+                            "fitem_name": "Gain (loss) on foreign exchange (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3118,
+                            "fitem_name": "Gain (loss) on foreign exchange (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3035,
+                            "fitem_name": "Gain (loss) on foreign exchange (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3034,
+                            "fitem_name": "Gain (loss) on foreign exchange (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3038,
+                            "fitem_name": "Gain (loss) on foreign exchange (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3036,
+                            "fitem_name": "Gain (loss) on foreign exchange (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3037,
+                            "fitem_name": "Gain (loss) on foreign exchange (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3212,
+                            "fitem_name": "Gain (loss) on foreign exchange (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3039,
+                            "fitem_name": "Gain (loss) on foreign exchange (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 38,
+                    "fitem_name": "Share of results of associates",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3040,
+                            "fitem_name": "Share of results of associates (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3108,
+                            "fitem_name": "Share of results of associates (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3042,
+                            "fitem_name": "Share of results of associates (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3041,
+                            "fitem_name": "Share of results of associates (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3045,
+                            "fitem_name": "Share of results of associates (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3043,
+                            "fitem_name": "Share of results of associates (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3044,
+                            "fitem_name": "Share of results of associates (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3213,
+                            "fitem_name": "Share of results of associates (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3046,
+                            "fitem_name": "Share of results of associates (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 39,
+                    "fitem_name": "Income Before Tax",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3047,
+                            "fitem_name": "Income Before Tax (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3109,
+                            "fitem_name": "Income Before Tax (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3049,
+                            "fitem_name": "Income Before Tax (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3048,
+                            "fitem_name": "Income Before Tax (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3052,
+                            "fitem_name": "Income Before Tax (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3050,
+                            "fitem_name": "Income Before Tax (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3051,
+                            "fitem_name": "Income Before Tax (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3214,
+                            "fitem_name": "Income Before Tax (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3053,
+                            "fitem_name": "Income Before Tax (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 40,
+                    "fitem_name": "Tax Expense",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3054,
+                            "fitem_name": "Tax Expense (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3110,
+                            "fitem_name": "Tax Expense (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3056,
+                            "fitem_name": "Tax Expense (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3055,
+                            "fitem_name": "Tax Expense (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3059,
+                            "fitem_name": "Tax Expense (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3057,
+                            "fitem_name": "Tax Expense (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3058,
+                            "fitem_name": "Tax Expense (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3215,
+                            "fitem_name": "Tax Expense (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3060,
+                            "fitem_name": "Tax Expense (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 41,
+                    "fitem_name": "Net Income",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 3061,
+                            "fitem_name": "Net Income (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3112,
+                            "fitem_name": "Net Income (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3063,
+                            "fitem_name": "Net Income (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3062,
+                            "fitem_name": "Net Income (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3066,
+                            "fitem_name": "Net Income (Growth QoQ)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3064,
+                            "fitem_name": "Net Income (Growth: Quarterly YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3065,
+                            "fitem_name": "Net Income (Growth: YTD YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3216,
+                            "fitem_name": "Net Income (Growth: Annual YoY)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 3067,
+                            "fitem_name": "Net Income (Growth: 3 Year)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18075,
+                            "fitem_name": "Net Income Growth Streak",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 18076,
+                            "fitem_name": "Net Income Growth Streak (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "fitem_id": 42,
+                    "fitem_name": "EPS",
+                    "show_chart_icon": 0,
+                    "child": [
+                        {
+                            "fitem_id": 1474,
+                            "fitem_name": "EPS (Quarter)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1475,
+                            "fitem_name": "EPS (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1458,
+                            "fitem_name": "EPS (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13200,
+                            "fitem_name": "Current EPS (TTM)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 660,
+                            "fitem_name": "EPS (YTD)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1469,
+                            "fitem_name": "EPS (QoQ Growth) ",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1470,
+                            "fitem_name": "EPS (Quarter YoY Growth)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1472,
+                            "fitem_name": "EPS (YTD YoY Growth) ",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1471,
+                            "fitem_name": "EPS (Annual YoY Growth) ",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 1473,
+                            "fitem_name": "EPS (3 Year CAGR) ",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13417,
+                            "fitem_name": "EPS Growth Streak",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 13429,
+                            "fitem_name": "EPS Forward Growth",
+                            "show_chart_icon": 1,
+                            "child": []
+                        },
+                        {
+                            "fitem_id": 16475,
+                            "fitem_name": "EPS Growth Streak (Annual)",
+                            "show_chart_icon": 1,
+                            "child": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "fitem_id": 43,
+            "fitem_name": "Balance Sheet",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 3068,
+                    "fitem_name": "Cash and cash equivalents",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3069,
+                    "fitem_name": "Trade receivables",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3070,
+                    "fitem_name": "Other receivables",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3071,
+                    "fitem_name": "Inventories",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3072,
+                    "fitem_name": "Short-term investments",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3073,
+                    "fitem_name": "Retention receivables",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3074,
+                    "fitem_name": "Gross receivables from project owners",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3075,
+                    "fitem_name": "Joint venture receivables",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3076,
+                    "fitem_name": "Total Current Assets",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3077,
+                    "fitem_name": "Property, plant and equipment",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3078,
+                    "fitem_name": "Plantations",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3079,
+                    "fitem_name": "Land for development",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3080,
+                    "fitem_name": "Investment properties",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3081,
+                    "fitem_name": "Real Estate Assets",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3082,
+                    "fitem_name": "Deferred exploration and development costs",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3083,
+                    "fitem_name": "Exploration and evaluation Assets",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3084,
+                    "fitem_name": "Mining Properties",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3085,
+                    "fitem_name": "Deferred stripping cost",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3086,
+                    "fitem_name": "Oil and gas assets",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3087,
+                    "fitem_name": "Investment in associates",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3088,
+                    "fitem_name": "Goodwill",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3089,
+                    "fitem_name": "Intangible assets",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3090,
+                    "fitem_name": "Loans",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3091,
+                    "fitem_name": "Total Non-Current Assets",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3092,
+                    "fitem_name": "Total Assets",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3093,
+                    "fitem_name": "Trade payables",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3094,
+                    "fitem_name": "Other payables",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3095,
+                    "fitem_name": "Accrued expenses",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3096,
+                    "fitem_name": "Taxes payable",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1520,
+                    "fitem_name": "Short-term Debt (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3098,
+                    "fitem_name": "Total Current Liabilities",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1524,
+                    "fitem_name": "Long-term Debt (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3100,
+                    "fitem_name": "Deposits from customers",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3101,
+                    "fitem_name": "Liabilitas kontrak asuransi",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3102,
+                    "fitem_name": "Total non-current liabilities",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3103,
+                    "fitem_name": "Total Liabilities",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1490,
+                    "fitem_name": "Book Value (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 3105,
+                    "fitem_name": "Tangible Book Value",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1518,
+                    "fitem_name": "Working Capital (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1488,
+                    "fitem_name": "Net Debt (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1486,
+                    "fitem_name": "Total Debt (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15630,
+                    "fitem_name": "Cash Per Share (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15883,
+                    "fitem_name": "Total Equity",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 44,
+            "fitem_name": "Cash Flow ",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 2525,
+                    "fitem_name": "Operating Cash Flow (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2545,
+                    "fitem_name": "Cash From Operations (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2543,
+                    "fitem_name": "Cash From Financing (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2544,
+                    "fitem_name": "Cash From Investing (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2534,
+                    "fitem_name": "Capital expenditure (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2538,
+                    "fitem_name": "Free cash flow (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 15881,
+                    "fitem_name": "Current Price To Free Cashflow (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16533,
+                    "fitem_name": "Current Price To Cashflow (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 68,
+            "fitem_name": "New Feature (Beta)",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 16466,
+                    "fitem_name": "Most Recent Quarter",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16467,
+                    "fitem_name": "Followers",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16487,
+                    "fitem_name": "Popularity",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16490,
+                    "fitem_name": "Standard Deviation (3 Year)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16491,
+                    "fitem_name": "Standard Deviation (5 Year)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16492,
+                    "fitem_name": "Standard Deviation (10 Year)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16495,
+                    "fitem_name": "Beta (3 Year)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16546,
+                    "fitem_name": "All Time High (Year 2000)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16547,
+                    "fitem_name": "All Time Low (Year 2000)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 16587,
+                    "fitem_name": "EPS (Forward)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13422,
+                    "fitem_name": "Rank (Near 52 Weeks High)",
+                    "show_chart_icon": 0,
+                    "child": []
+                },
+                {
+                    "fitem_id": 13412,
+                    "fitem_name": "Near 52 Week High",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "fitem_id": 3,
+            "fitem_name": "Solvency",
+            "show_chart_icon": 0,
+            "child": [
+                {
+                    "fitem_id": 13402,
+                    "fitem_name": "Altman Z-Score (Modified)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1498,
+                    "fitem_name": "Current Ratio (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1500,
+                    "fitem_name": "Quick Ratio (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1508,
+                    "fitem_name": "Debt to Equity Ratio (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1504,
+                    "fitem_name": "LT Debt/Equity (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1573,
+                    "fitem_name": "Total Liabilities/Equity (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1512,
+                    "fitem_name": "Total Debt/Total Assets (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1502,
+                    "fitem_name": "Financial Leverage (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 1484,
+                    "fitem_name": "Interest Coverage (TTM)",
+                    "show_chart_icon": 1,
+                    "child": []
+                },
+                {
+                    "fitem_id": 2536,
+                    "fitem_name": "Free cash flow (Quarter)",
+                    "show_chart_icon": 1,
+                    "child": []
+                }
+            ]
+        }
+    ]
+}
