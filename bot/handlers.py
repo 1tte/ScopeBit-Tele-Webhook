@@ -32,6 +32,7 @@ from api.buzzer import fetch_ihsg_summary
 from engines.ihsg import format_ihsg_report
 from api.indopremier import fetch_global_indices
 from engines.report import generate_report
+from engines.recap import get_clean_money_recap
 
 log = logging.getLogger("bot")
 
@@ -1545,17 +1546,6 @@ def _format_scanner_result(results: list, config: dict, date_str: str, filter_st
 # COMMANDS
 # ──────────────────────────────────────────────
 
-async def send_auto_delete_error(update: Update, context: ContextTypes.DEFAULT_TYPE, message_text: str, delay: int = 5):
-    """Sends an error message that automatically deletes itself after a delay."""
-    sent_message = await update.message.reply_text(message_text, parse_mode="HTML")
-    await asyncio.sleep(delay)
-    try:
-        await sent_message.delete()
-        await update.message.delete() # Also delete the user's command message
-    except Exception:
-        pass # Ignore if messages can't be deleted
-
-
 # ──────────────────────────────────────────────
 # /bandar Command
 # ──────────────────────────────────────────────
@@ -1776,46 +1766,39 @@ async def token_refresh_command(update: Update, context: ContextTypes.DEFAULT_TY
         )
         return
 
-    # Write to .env
-    env_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
+    from api.auth import set_refresh_token
+    
     try:
-        with open(env_path, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
+        success = set_refresh_token(new_token)
         
-        updated = False
-        for i, line in enumerate(lines):
-            if line.startswith('STOCKBIT_REFRESH_TOKEN='):
-                lines[i] = f'STOCKBIT_REFRESH_TOKEN={new_token}\n'
-                updated = True
-                break
-                
-        if not updated:
-            lines.insert(1, f'STOCKBIT_REFRESH_TOKEN={new_token}\n')
+        if success:
+            # Update OS env so it applies immediately without restart
+            os.environ['STOCKBIT_REFRESH_TOKEN'] = new_token
             
-        with open(env_path, 'w', encoding='utf-8') as f:
-            f.writelines(lines)
-            
-        # Update OS env so it applies immediately without restart
-        os.environ['STOCKBIT_REFRESH_TOKEN'] = new_token
-        
-        from datetime import datetime, timezone, timedelta
-        now = datetime.now(timezone(timedelta(hours=7)))
-        ts = now.strftime("%Y-%m-%d %H:%M:%S")
-
-        user_id = update.effective_user.id
-        masked = new_token[:10] + "..." + new_token[-5:] if len(new_token) > 15 else "***"
-        reply_lines = [
-            "🔑 <b>Refresh Token Updated</b>",
-            "",
-            f"<code>token   : {masked}</code>",
-            f"<code>updated : {ts}</code>",
-            f"<code>by      : admin ({user_id})</code>",
-        ]
-        await context.bot.send_message(
-            chat_id=update.effective_chat.id,
-            text="\n".join(reply_lines),
-            parse_mode="HTML"
-        )
+            from datetime import datetime, timezone, timedelta
+            now = datetime.now(timezone(timedelta(hours=7)))
+            ts = now.strftime("%Y-%m-%d %H:%M:%S")
+    
+            user_id = update.effective_user.id
+            masked = new_token[:10] + "..." + new_token[-5:] if len(new_token) > 15 else "***"
+            reply_lines = [
+                "🔑 <b>Refresh Token Updated</b>",
+                "",
+                f"<code>token   : {masked}</code>",
+                f"<code>updated : {ts}</code>",
+                f"<code>by      : admin ({user_id})</code>",
+            ]
+            await context.bot.send_message(
+                chat_id=update.effective_chat.id,
+                text="\n".join(reply_lines),
+                parse_mode="HTML"
+            )
+        else:
+            await context.bot.send_message(
+                chat_id=update.effective_chat.id,
+                text="❌ <b>Gagal update token.</b>\nCek log untuk detail.",
+                parse_mode="HTML"
+            )
     except Exception as e:
         error_msg = html.escape(str(e))
         await context.bot.send_message(
@@ -2025,7 +2008,7 @@ async def add_radar_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     cmd_parts = msg.split(None, 2)
     if len(cmd_parts) < 3:
-        await send_auto_delete_error(update, context, "⚠️ Gunakan format:\n<code>/add_radar 09:30 [JSON PAYLOAD]</code>", delay=10)
+        await send_auto_delete_error(update, context, "⚠️ Gunakan format:\n<code>/add_radar 09:30 [JSON PAYLOAD]</code>", timeout=10)
         return
     
     time_str = cmd_parts[1].replace(".", ":")
