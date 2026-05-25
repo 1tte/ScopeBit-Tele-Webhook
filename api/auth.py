@@ -258,3 +258,25 @@ def set_bearer_token(new_token: str) -> bool:
     except Exception as e:
         log.error(f"TOKEN | Failed to set bearer token: {e}")
         return False
+
+
+def set_refresh_token(new_token: str) -> bool:
+    """
+    Manually set a new Stockbit refresh token.
+    Updates .env file and backup.
+    Returns True on success, False on failure.
+    """
+    try:
+        env_content = _read_env_file()
+        env_content = _update_env_value(env_content, "STOCKBIT_REFRESH_TOKEN", new_token)
+        _write_env_file(env_content)
+        
+        # Save to backup
+        old_bearer, _ = get_backup_tokens()
+        _save_backup(old_bearer, new_token)
+
+        log.info("TOKEN | Refresh token updated manually via /token-refresh command")
+        return True
+    except Exception as e:
+        log.error(f"TOKEN | Failed to set refresh token: {e}")
+        return False
